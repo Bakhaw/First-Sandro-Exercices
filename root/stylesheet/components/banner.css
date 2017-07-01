@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.banner {
+height: 100vh;
+background-size: cover
+}
+
+.banner-content {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: #FFFFFF;
+  font-family: 'Open Sans', sans-serif;
+}
+.banner-content h1 {
+  font-size: 50px;
+}
+
+.banner-content p {
+  font-size: 22px;
+}
+
+.button-getit {
+  margin-top: 15em;
+  text-decoration: none;
+  color: #FFFFFF;
+  border-radius: 50px;
+  padding: 1em 3em;
+  border: 2px solid #FFFFFF;
+}

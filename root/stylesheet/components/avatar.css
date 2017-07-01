@@ -1,0 +1,22 @@
+.avatar-base {
+  border-radius: 50%;
+  width: 3em;
+}
+
+.avatar-large {
+  border-radius: 50%;
+  width: 6em;
+}
+
+.avatar-bordered {
+  border-radius: 50%;
+  box-shadow: 0 0 15px;
+  border: 2px solid #b8bdc3;
+  width: 3em;
+}
+
+.avatar-square {
+  width: 3em;
+  box-shadow: 0 0 15px;
+  border: 2px solid #b8bdc3;
+}

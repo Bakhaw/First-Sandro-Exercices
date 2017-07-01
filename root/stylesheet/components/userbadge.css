@@ -1,0 +1,21 @@
+.userbadge-container {
+}
+
+.userbadge {
+  width: 1.5em;
+  text-align: center;
+  color: #FFFFFF;
+  border-radius: 50px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  margin-left: 1.9em;
+  position: relative;
+}
+
+.userbadge-red {
+  background-color: #FE0606;
+}
+
+.avatar-base {
+  position: absolute;
+}

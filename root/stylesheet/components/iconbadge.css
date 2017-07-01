@@ -1,0 +1,22 @@
+.badge-container {
+}
+
+.iconbadge {
+  width: 1.2em;
+  text-align: center;
+  color: #FFFFFF;
+  border-radius: 50px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  margin-left: 1.7em;
+  position: relative;
+}
+
+.iconbadge-blue {
+  background-color: #046380;
+}
+
+.icon {
+  width: 2.5em;
+  position: absolute;
+}

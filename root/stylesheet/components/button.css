@@ -1,0 +1,20 @@
+.button-story {
+  text-decoration: none;
+  color: #b8bdc3;
+  border: 2px solid #b8bdc3;
+  border-radius: 50px;
+  padding: 0.7em;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.button-start {
+  text-decoration: none;
+  color: white;
+  background-color: #6AD58B;
+  padding: 0.7em;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 10px;
+}
